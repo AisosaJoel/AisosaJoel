@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AisosaJoel
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 How to reach me @aisosajoel on Instagram and Twitter
 
 <!---
